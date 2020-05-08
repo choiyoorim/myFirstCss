@@ -12,14 +12,14 @@ h2{
 }
 p{
     font-size: 13px;
-    color:white;
+    color:black;
     line-height: 2;
 }
 img{
     max-width: 30%;
 }
 ul{
-    color: white;
+    color: black;
 }
 a{
     color: rgb(229, 227, 238);
